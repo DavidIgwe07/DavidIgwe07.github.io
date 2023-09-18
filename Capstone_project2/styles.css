@@ -1,0 +1,110 @@
+nav div img{
+    border-radius: 50px;
+    width: 150px;
+}
+/* .nav-link{
+  color: rgb(217, 207, 184) ;
+  transition: 200ms;
+  padding: 2px 5px;
+} */
+
+body{
+    background-color: rgb(217, 207, 184) !important;
+    font-family: 'Fleischmann'!important;
+}
+
+.reservation{
+    background-color: white;
+    border-radius: 5px;
+}
+
+.restaurant-img{
+  background-color: rgb(217, 207, 184);
+}
+
+.restaurant-img img{
+    width: 100%;
+    height: 700px;
+}
+
+a{
+  color:inherit !important;
+}
+
+.description{
+   margin-top: 20%;
+   text-align : center;
+}
+
+.contact-description{
+  margin-left: 40px;
+}
+
+.describe{
+  text-align : center;
+  margin-top: 40px;
+}
+
+.sub-describe{
+  text-align : center;
+  margin-top: 30px;
+}
+
+.button{
+  width: 10%;
+  margin-bottom: 20px;
+}
+
+
+
+/* .btn-content div button{
+  width: 20%;
+} */
+
+/* Extra small devices */
+@media (max-width:375px){
+    /* .col{
+        width: 20%;
+    } */
+    .col-1 {
+        width: 8.33%;
+      }
+      .col-2 {
+        width: 16.66%;
+      }
+      .col-3 {
+        width: 25%;
+      }
+      .col-4 {
+        width: 33.33%;
+      }
+      .col-5 {
+        width: 41.66%;
+      }
+      .col-6 {
+        width: 50%;
+      }
+      .col-7 {
+        width: 58.33%;
+      }
+      .col-8 {
+        width: 66.66%;
+      }
+      .col-9 {
+        width: 74.99%;
+      }
+      .col-10 {
+        width: 83.33%;
+      }
+      .col-11 {
+        width: 91.66%;
+      }
+      .col-12 {
+        width: 100%;
+      } 
+      .button{
+        width: 50%;
+        margin-bottom: 20px;
+      }
+
+    }
