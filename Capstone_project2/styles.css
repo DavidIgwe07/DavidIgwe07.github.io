@@ -32,7 +32,7 @@ a{
 }
 
 .description{
-   margin-top: 20%;
+   margin-top: 10%;
    text-align : center;
 }
 
@@ -55,6 +55,11 @@ a{
   margin-bottom: 20px;
 }
 
+
+.breakfast{
+  display: flex;
+  flex-wrap: wrap;
+}
 
 
 /* .btn-content div button{
